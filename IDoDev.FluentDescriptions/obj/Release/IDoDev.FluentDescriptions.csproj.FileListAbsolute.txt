@@ -1,0 +1,9 @@
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions\bin\Release\IDoDev.FluentDescriptions.dll
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions\bin\Release\IDoDev.FluentDescriptions.pdb
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions\obj\Release\IDoDev.FluentDescriptions.dll
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions\obj\Release\IDoDev.FluentDescriptions.pdb
+C:\dev\FluentDescriptions\IDoDev.FluentDescriptions\bin\Release\FluentDescriptions.dll
+C:\dev\FluentDescriptions\IDoDev.FluentDescriptions\bin\Release\FluentDescriptions.pdb
+C:\dev\FluentDescriptions\IDoDev.FluentDescriptions\obj\Release\IDoDev.FluentDescriptions.csprojResolveAssemblyReference.cache
+C:\dev\FluentDescriptions\IDoDev.FluentDescriptions\obj\Release\FluentDescriptions.dll
+C:\dev\FluentDescriptions\IDoDev.FluentDescriptions\obj\Release\FluentDescriptions.pdb

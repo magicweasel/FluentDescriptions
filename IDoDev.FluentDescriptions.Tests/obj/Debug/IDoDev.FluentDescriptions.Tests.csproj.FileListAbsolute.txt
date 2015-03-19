@@ -1,0 +1,15 @@
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\obj\Debug\IDoDev.FluentDescriptions.Tests.csprojResolveAssemblyReference.cache
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\bin\Debug\IDoDev.FluentDescriptions.Tests.dll
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\bin\Debug\IDoDev.FluentDescriptions.Tests.pdb
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\bin\Debug\FluentAssertions.Core.dll
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\bin\Debug\FluentAssertions.dll
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\bin\Debug\IDoDev.FluentDescriptions.dll
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\bin\Debug\nunit.framework.dll
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\bin\Debug\IDoDev.FluentDescriptions.pdb
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\bin\Debug\FluentAssertions.pdb
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\bin\Debug\FluentAssertions.xml
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\bin\Debug\FluentAssertions.Core.pdb
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\bin\Debug\FluentAssertions.Core.xml
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\bin\Debug\nunit.framework.xml
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\obj\Debug\IDoDev.FluentDescriptions.Tests.dll
+D:\Code\Stash\idodev\FluentDescriptions\IDoDev.FluentDescriptions.Tests\obj\Debug\IDoDev.FluentDescriptions.Tests.pdb

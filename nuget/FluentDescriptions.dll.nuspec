@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FluentDescriptions</id>
+    <version>1.0.0</version>
+    <authors>andrew.clarke</authors>
+    <owners>andrew.clarke</owners>
+    <projectUrl>https://github.com/idodevdotnet/FluentDescriptions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A method of describing calculations in unit tests intended to complement FluentAssertions</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>TDD BDD TestFirst</tags>
+  </metadata>
+</package>
