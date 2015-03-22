@@ -6,11 +6,9 @@ This library aims to complement Fluent Assertions.  Fluent Assertions is fantast
 *For Example ...*
 
 ```
-  Given that customer wants their shed painted
-
-  When pricing the shed
-
-  Then the price of the paint is added
+Given that customer wants their shed painted
+When pricing the shed
+Then the cost of the paint is added to the price
 ```
 
 The shed costs £100, the paint costs £23.45
@@ -29,7 +27,7 @@ this.result.Should().Be(Equal_to.the("basic shed price").of(100) + and_an._("ext
 ```
 
 The vocabulary currently supported is:
-
+```
 Equal_to -> the -> [insert word] -> of
 Equal_to -> a -> [insert word] -> of
 
@@ -38,7 +36,8 @@ the -> [insert word] -> of
 an -> [insert word] -> of
 and_a -> [insert word] -> of
 and_an -> [insert word] -> of
+```
 
-Note: Equal_to also comes in lower case equal_to if preferred
+Note: Equal_to also comes in lower case (equal_to) if preferred
 
 The simple set of vocabulary above actually gives a huge range of possibilities - but if you're struggling to describe things with the set above, then please pass a feature request my way.
