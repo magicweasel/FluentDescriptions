@@ -5,9 +5,13 @@ This library aims to complement Fluent Assertions.  Fluent Assertions is fantast
 
 *For Example ...*
 
-Given that customer wants their shed painted
-When pricing the shed
-Then the price of the paint is added
+```
+  Given that customer wants their shed painted
+
+  When pricing the shed
+
+  Then the price of the paint is added
+```
 
 The shed costs £100, the paint costs £23.45
 
@@ -16,7 +20,7 @@ With Fluent Assertions you might have asserted the test as follows:
 ```c#
 this.shedPrice.Should().Be(123.45m);
 ```
-Returned to the test later, it's not immediately obvious how that value is made up - as the calculation gets more complex, the issue is compounded.
+Returning to the test later, it's not immediately obvious how that value is made up - as the calculation gets more complex, the issue is compounded.
 
 This is where Fluent Descriptions steps in:
 
@@ -37,4 +41,4 @@ and_an -> [insert word] -> of
 
 Note: Equal_to also comes in lower case equal_to if preferred
 
-The simple set above actually gives a huge range of possibilities - but if you've got a sentence that can't be written with the vocabulary above please pass a feature request my way.
+The simple set of vocabulary above actually gives a huge range of possibilities - but if you're struggling to describe things with the set above, then please pass a feature request my way.
