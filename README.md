@@ -16,7 +16,7 @@ With Fluent Assertions you might have asserted the test as follows:
 ```c#
 this.shedPrice.Should().Be(123.45m);
 ```
-Returned to the test later, it's not immediately obvious how that value is made up - as the calculation gets more complex, the issue is componded.
+Returned to the test later, it's not immediately obvious how that value is made up - as the calculation gets more complex, the issue is compounded.
 
 This is where Fluent Descriptions steps in:
 
@@ -24,3 +24,17 @@ This is where Fluent Descriptions steps in:
 this.result.Should().Be(Equal_to.the("basic shed price").of(100) + and_an._("extra cost for the paint").of(23.45m));
 ```
 
+The vocabulary currently supported is:
+
+Equal_to -> the -> [insert word] -> of
+Equal_to -> a -> [insert word] -> of
+
+a -> [insert word] -> of
+the -> [insert word] -> of
+an -> [insert word] -> of
+and_a -> [insert word] -> of
+and_an -> [insert word] -> of
+
+Note: Equal_to also comes in lower case equal_to if preferred
+
+The simple set above actually gives a huge range of possibilities - but if you've got a sentence that can't be written with the vocabulary above please pass a feature request my way.
